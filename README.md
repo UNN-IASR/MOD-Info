@@ -176,15 +176,15 @@
 | 3 | Голубев Р.А. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 4 | Иванов С.Ю. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 5 | Колобков Н.А. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
-| 6 | Мастюгин М.Ю. | 3822Б1ПИмэ | 4 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 7 | Морозов А.С. | 3822Б1ПИмэ | 3 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 6 | Мастюгин М.Ю. | 3822Б1ПИмэ | 4 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 7 | Морозов А.С. | 3822Б1ПИмэ | 3 | <img src="img/s.png" width="20"> | 21 | 21 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 8 | Плотников К.Е. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 9 | Пронин А.А. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
-| 10 | Пудков М.А. | 3822Б1ПИмэ | 1 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 10 | Пудков М.А. | 3822Б1ПИмэ | 1 | <img src="img/s.png" width="20"> | 19 | 19 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 11 | Сазанов З.А. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 12 | Саломасов Д.С. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 13 | Самохин В.В. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
-| 14 | Саутенков Д.В. | 3822Б1ПИмэ | 2 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 14 | Саутенков Д.В. | 3822Б1ПИмэ | 2 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 15 | Федоров А.П. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 16 | Чернышов С.Д. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
 | 17 | Юрлова А.Д. | 3822Б1ПИмэ |  | |  | | <img src="img/f.png" width="20"> |  | | 
