@@ -373,8 +373,8 @@
 | 44 | Мешков В. | 3821Б1ПИис | 15 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 45 | Паймухин В. | 3821Б1ПИис | 42 | <img src="img/s.png" width="20"> | 17 | 17 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 46 | Пискунов Д. | 3821Б1ПИис | 40 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 47 | Степанян А. | 3821Б1ПИис | 43 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/f.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 48 | Шлямова А. | 3821Б1ПИис | 14 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 47 | Степанян А. | 3821Б1ПИис | 43 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 48 | Шлямова А. | 3821Б1ПИис | 14 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 ### UNN-IASR/mod-lab05-gen
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | Всего тестов | Пройдено | График | Текст | ИТОГ | 
