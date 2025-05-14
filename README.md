@@ -366,7 +366,7 @@
 | 37 | Хохрин К.С. | 3822Б1ПИпр |  | |  | |  | |  | |  | | 
 | 38 | Гаффаров И. | 3821Б1ПИис | 21 | <img src="img/s.png" width="20"> | 17 | 17 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 39 | Икряников Д. | 3821Б1ПИис | 38 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 40 | Клюкин В. | 3821Б1ПИис | 37 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 40 | Клюкин В. | 3821Б1ПИис | 37 | <img src="img/s.png" width="20"> | 15 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 41 | Конева А. | 3821Б1ПИис | 41 | <img src="img/s.png" width="20"> | 16 | 16 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 42 | Лобанов А. | 3821Б1ПИис | 17 | <img src="img/s.png" width="20"> | 18 | 18 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 43 | Межнев А. | 3821Б1ПИис | 34 | <img src="img/s.png" width="20"> | 0 | 0 |  | |  | | <img src="img/f.png" width="20"> | 
