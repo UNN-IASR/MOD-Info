@@ -164,7 +164,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-05-12 07:25
+Дата/время проверки: 2025-05-14 13:25
 
 
 ### UNN-IASR/mod-lab01-fa-cpp
@@ -538,14 +538,14 @@
 | 1 | Вагин Н.В. | 3822Б1ПИмэ | 5 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 2 | Власов С.А. | 3822Б1ПИмэ |  | |  | |  | | 
 | 3 | Голубев Р.А. | 3822Б1ПИмэ |  | |  | |  | | 
-| 4 | Иванов С.Ю. | 3822Б1ПИмэ |  | |  | |  | | 
+| 4 | Иванов С.Ю. | 3822Б1ПИмэ | 10 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 5 | Колобков Н.А. | 3822Б1ПИмэ |  | |  | |  | | 
 | 6 | Мастюгин М.Ю. | 3822Б1ПИмэ | 4 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 7 | Морозов А.С. | 3822Б1ПИмэ | 7 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 8 | Плотников К.Е. | 3822Б1ПИмэ |  | |  | |  | | 
 | 9 | Пронин А.А. | 3822Б1ПИмэ |  | |  | |  | | 
 | 10 | Пудков М.А. | 3822Б1ПИмэ | 2 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 11 | Сазанов З.А. | 3822Б1ПИмэ |  | |  | |  | | 
+| 11 | Сазанов З.А. | 3822Б1ПИмэ | 8 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 12 | Саломасов Д.С. | 3822Б1ПИмэ |  | |  | |  | | 
 | 13 | Самохин В.В. | 3822Б1ПИмэ | 3 | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 14 | Саутенков Д.В. | 3822Б1ПИмэ | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
