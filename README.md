@@ -166,7 +166,7 @@
 ## Проверки
 
 
-Дата/время проверки: 2025-05-29 17:25
+Дата/время проверки: 2025-05-29 18:25
 
 
 ### UNN-IASR/mod-lab01-fa-cpp
@@ -457,7 +457,7 @@
 | 17 | Юрлова А.Д. | 3822Б1ПИмэ | 9 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 18 | Ярахтина А.С. | 3822Б1ПИмэ | 16 | <img src="img/s.png" width="20"> | 12 | 12 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 19 | Владимиров И.А. | 3822Б1ПИсм |  | |  | |  | |  | | 
-| 20 | Лебедева А.А. | 3822Б1ПИсм | 28 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 20 | Лебедева А.А. | 3822Б1ПИсм | 28 | <img src="img/s.png" width="20"> | 10 | 10 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 21 | Сабурова А.П. | 3822Б1ПИсм |  | |  | |  | |  | | 
 | 22 | Симаева А.Д. | 3822Б1ПИсм |  | |  | |  | |  | | 
 | 23 | Смирнов И.В. | 3822Б1ПИсм |  | |  | |  | |  | | 
@@ -606,7 +606,7 @@
 | 7 | Морозов А.С. | 3822Б1ПИмэ | 6 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 8 | Плотников К.Е. | 3822Б1ПИмэ |  | |  | |  | |  | | 
 | 9 | Пронин А.А. | 3822Б1ПИмэ | 4 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 10 | Пудков М.А. | 3822Б1ПИмэ | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 10 | Пудков М.А. | 3822Б1ПИмэ | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 11 | Сазанов З.А. | 3822Б1ПИмэ | 7 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 12 | Саломасов Д.С. | 3822Б1ПИмэ | 2 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 13 | Самохин В.В. | 3822Б1ПИмэ | 8 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
