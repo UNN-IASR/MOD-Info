@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="github-markdown.css">
 <style>
     .markdown-body {
@@ -9,6 +8,5 @@
     }
 </style>
 <article class="markdown-body">
-    ...
+    123456
 </article>
-
