@@ -1,12 +1,3 @@
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-    .markdown-body {
-        min-width: 200px;
-        max-width: 790px;
-        margin: 0 auto;
-        padding: 30px;
-    }
-</style>
-<article class="markdown-body">
-    123456
-</article>
+<table>
+    <tr><th>123</th></tr>
+</table>
