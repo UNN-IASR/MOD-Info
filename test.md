@@ -1,4 +1,4 @@
-```html
+
 <link rel="stylesheet" href="github-markdown.css">
 <style>
     .markdown-body {
@@ -11,4 +11,4 @@
 <article class="markdown-body">
     ...
 </article>
-```
+
